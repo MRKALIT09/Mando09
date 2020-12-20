@@ -55,15 +55,15 @@ logo = """\033[1;93m█████████
 \033[1;93m█████████      \033[1;92m«----------✧----------»
 \033[1;93m ██ ██
 \033[1;93m╔════════════════════════════════════════════╗
-\033[1;93m║\033[1;96m* \033[1;93mAuthor  \033[1;93m : \033[1;93mBrother•|Mr.RaflyPakei\033[1;93m          ║
-\033[1;93m║\033[1;96m* \033[1;93mYouTube  \033[1;93m : \033[1;93m\033[4mRafly pake i\033[0m \033[1;93m║
-\033[1;93m║\033[1;96m* \033[1;93mWhatsApp \033[1;93m: \033[1;93m082_290_232_340\033[1;93m                 ║
+\033[1;93m║\033[1;96m* \033[1;93mAuthor  \033[1;93m : \033[1;93mBrother•|Mr.KALIT09\033[1;93m          ║
+\033[1;93m║\033[1;96m* \033[1;93mYouTube  \033[1;93m : \033[1;93m\033[4mNONE\033[0m \033[1;93m║
+\033[1;93m║\033[1;96m* \033[1;93mWhatsApp \033[1;93m: \033[1;93m085277804293\033[1;93m                 ║
 \033[1;93m╚════════════════════════════════════════════╝"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;96m[●] \x1b[1;93mSedang masuk by rafly pake i \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;96m[●] \x1b[1;93mSedang masuk YA TOD  \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 
 
 back = 0
@@ -77,13 +77,13 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\033[1;96m ============================================================="
-print  """\033[1;96m [¤] \x1b[1;93mASSALAMUALAIKUM\x1b[1;96m  \033[1;96m   [¤] \x1b[1;93mWHATSAPP : 082290232340\x1b[1;96m  
-\033[1;96m [¤] \x1b[1;93mSELAMAT DATAMG\x1b[1;96m      [¤] \x1b[1;93mLOGIN SC: UNTUK LOGIN +USERNAME+:RAFLY +PASSWORD+:PAKEI\x1b[1;96m  
-\033[1;96m [¤] \x1b[1;93mTOOLS MUHAMMAD RAFLI\x1b[1;96m  [¤] \x1b[1;93mYOUTUBE  : Rafly pake i\x1b[1;96m"""
+print  """\033[1;96m [¤] \x1b[1;93mASSALAMUALAIKUM\x1b[1;96m  \033[1;96m   [¤] \x1b[1;93mWHATSAPP : 085277804093\x1b[1;96m  
+\033[1;96m [¤] \x1b[1;93mSELAMAT DATAMG\x1b[1;96m      [¤] \x1b[1;93mLOGIN SC: UNTUK LOGIN +USERNAME+:MR +PASSWORD+:KALIT09\x1b[1;96m  
+\033[1;96m [¤] \x1b[1;93mTOOLS MR•KALIT09\x1b[1;96m  [¤] \x1b[1;93mYOUTUBE  : NONE\x1b[1;96m"""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "RAFLY"
-CorrectPassword = "PAKEI"
+CorrectUsername = "MR"
+CorrectPassword = "KALIT09"
 
 loop = 'true'
 while (loop == 'true'):
@@ -94,10 +94,10 @@ while (loop == 'true'):
             print "Logged in successfully as " + username
             loop = 'false'
         else:
-            print "yang bener dong"
+            print "KALAU SALAH KUPIJAK:V"
             os.system('xdg-open https://www.youtube.com/channel/UCJRsXsoiWHqBysdGXEjl8Hg')
     else:
-        print "salah sayang!"
+        print "BIKIN NAEK PITAM!"
         os.system('xdg-open https://www.youtube.com/channel/UCJRsXsoiWHqBysdGXEjl8Hg')
 
 def login():
