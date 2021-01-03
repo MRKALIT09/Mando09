@@ -151,7 +151,7 @@ def login():
 			time.sleep(1)
 			keluar()
 		else:
-			print("\n\033[1;96m[!] \x1b[1;91mPassword/Email salah")
+			print("\n\033[1;96m[!] \x1b[1;91mPassword/email mu salah ngab")
 			os.system('rm -rf login.txt')
 			time.sleep(1)
 			login()
